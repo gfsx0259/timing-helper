@@ -1,7 +1,7 @@
 # timing-helper
 Wrapper for timing navigation api v1
 
-###Example of using
+### Example of using
 ```js
 document.addEventListener('load', onLoadHandler);
 
