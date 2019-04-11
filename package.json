@@ -1,0 +1,8 @@
+{
+  "name": "timing-helper",
+  "version": "1.0.0",
+  "description": "Wrapper for timing navigation api v1",
+  "main": "index.js",
+  "author": "Konstantin Popov",
+  "license": "MIT"
+}
