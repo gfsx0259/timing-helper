@@ -1,0 +1,11 @@
+{
+  "name": "timing-helper",
+  "version": "1.0.0",
+  "description": "Wrapper for timing navigation api v1",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Popov",
+  "license": "MIT"
+}
